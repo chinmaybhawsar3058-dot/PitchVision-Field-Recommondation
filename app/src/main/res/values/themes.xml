@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.PitchVision" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/cricket_primary</item>
+        <item name="colorPrimaryVariant">@color/cricket_primary_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/cricket_gold</item>
+        <item name="colorSecondaryVariant">@color/cricket_gold_dark</item>
+        <item name="colorOnSecondary">@color/black</item>
+
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">@color/cricket_primary_dark</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:navigationBarColor">@color/cricket_primary_dark</item>
+
+        <item name="android:windowBackground">@color/background_light</item>
+    </style>
+
+    <!-- Alias for backward compatibility if any reference uses Theme.MyApplication -->
+    <style name="Theme.MyApplication" parent="Theme.PitchVision" />
+</resources>

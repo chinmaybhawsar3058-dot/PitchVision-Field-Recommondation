@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Fielder Abilities requested: Fast Runner, Good Catcher, Strong Arm, Good Thrower, All Round Fielder -->
+    <string-array name="fielder_abilities">
+        <item>Fast Runner</item>
+        <item>Good Catcher</item>
+        <item>Strong Arm</item>
+        <item>Good Thrower</item>
+        <item>All Round Fielder</item>
+    </string-array>
+
+    <!-- Bowler Types requested: Fast Bowler, Medium Pacer, Spinner -->
+    <string-array name="bowler_types">
+        <item>Fast Bowler</item>
+        <item>Medium Pacer</item>
+        <item>Spinner</item>
+    </string-array>
+
+    <!-- Batsman Types requested: Right Hand, Left Hand, Aggressive, Defensive -->
+    <string-array name="batsman_handedness">
+        <item>Right Hand</item>
+        <item>Left Hand</item>
+    </string-array>
+
+    <string-array name="batsman_styles">
+        <item>Aggressive</item>
+        <item>Defensive</item>
+    </string-array>
+</resources>

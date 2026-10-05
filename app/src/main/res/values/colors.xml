@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Cricket Turf & Theme Primary Colors -->
+    <color name="cricket_primary">#0E5A35</color>
+    <color name="cricket_primary_dark">#083820</color>
+    <color name="cricket_primary_light">#1D8752</color>
+    <color name="cricket_pitch">#C8AB83</color>
+    <color name="cricket_pitch_dark">#A68860</color>
+    <color name="cricket_crease">#FFFFFF</color>
+    <color name="cricket_stumps">#FFE082</color>
+
+    <!-- Turf Shades -->
+    <color name="turf_green_outer">#1A4D2E</color>
+    <color name="turf_green_inner">#22683E</color>
+    <color name="turf_circle_line">#80FFFFFF</color>
+    <color name="turf_boundary_rope">#FFFFFF</color>
+
+    <!-- Accents & Indicators -->
+    <color name="cricket_gold">#FFB300</color>
+    <color name="cricket_gold_dark">#FF8F00</color>
+    <color name="accent_red">#E53935</color>
+    <color name="accent_blue">#1976D2</color>
+    <color name="accent_cyan">#00BCD4</color>
+
+    <!-- Fielder Marker Colors -->
+    <color name="marker_highlight">#FFD600</color>
+    <color name="marker_pulse">#40FFD600</color>
+    <color name="marker_text">#FFFFFF</color>
+    <color name="other_fielders">#B0FFFFFF</color>
+
+    <!-- Neutral & UI Colors -->
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="card_bg">#FFFFFF</color>
+    <color name="background_light">#F4F7F5</color>
+    <color name="surface_dark">#121E17</color>
+    <color name="text_primary">#1C2826</color>
+    <color name="text_secondary">#596E64</color>
+    <color name="text_muted">#8A9A92</color>
+    <color name="border_light">#D4DDD7</color>
+    <color name="input_bg">#F8FAF8</color>
+    <color name="chip_bg">#E6F4EA</color>
+    <color name="chip_stroke">#A8DAB5</color>
+</resources>

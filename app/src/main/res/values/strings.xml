@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">PitchVision</string>
+    <string name="app_tagline">Cricket Field Positioning Recommendation</string>
+    <string name="login_title">Welcome Back</string>
+    <string name="login_subtitle">Sign in to optimize your cricket fielding strategy</string>
+    <string name="register_title">Create Account</string>
+    <string name="register_subtitle">Join PitchVision to customize fielding setups</string>
+    <string name="email_hint">Email address</string>
+    <string name="password_hint">Password</string>
+    <string name="confirm_password_hint">Confirm password</string>
+    <string name="name_hint">Full Name / Coach Name</string>
+    <string name="btn_login">Sign In</string>
+    <string name="btn_register">Register</string>
+    <string name="btn_quick_demo">Fill Demo Account</string>
+    <string name="prompt_no_account">Don\'t have an account? Register</string>
+    <string name="prompt_have_account">Already registered? Sign In</string>
+    
+    <!-- Home Screen -->
+    <string name="home_title">Field Setup Configurator</string>
+    <string name="home_subtitle">Input player profiles &amp; match conditions</string>
+    <string name="label_fielder_name">Fielder Name</string>
+    <string name="hint_fielder_name">e.g. Virat Kohli / Ravindra Jadeja</string>
+    <string name="label_quick_presets">Quick Presets:</string>
+    <string name="label_fielder_ability">Fielder Ability</string>
+    <string name="label_bowler_type">Bowler Type</string>
+    <string name="label_batsman_handedness">Batsman Handedness</string>
+    <string name="label_batsman_style">Batsman Style / Temperament</string>
+    <string name="btn_recommend_position">Recommend Position</string>
+    <string name="btn_reset">Reset</string>
+    <string name="logout">Logout</string>
+
+    <!-- Field Screen -->
+    <string name="field_title">Tactical Field Ground</string>
+    <string name="field_subtitle">AI-assisted fielding placement &amp; geometry</string>
+    <string name="label_recommended_position">Recommended Position</string>
+    <string name="label_tactical_reasoning">Tactical Analysis &amp; Rationale</string>
+    <string name="label_ground_legend">Ground Reference: Green = Boundary (75m), Dotted = 30-Yard Circle, Center = 22-Yard Pitch</string>
+    <string name="btn_try_another">Configure Another Fielder</string>
+</resources>

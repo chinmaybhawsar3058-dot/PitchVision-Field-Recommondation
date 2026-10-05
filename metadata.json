@@ -1,0 +1,6 @@
+{
+  "name": "PitchVision – Cricket Field Positioning Recommendation",
+  "description": "Android application developed with Java and XML for cricket fielding position recommendations based on fielder ability, bowler type, and batsman style.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
